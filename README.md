@@ -64,11 +64,11 @@ display(pypl_top_10_returns)
 
 ## Voila Images
 
-![imagethree](Images/Screen Shot 2023-01-07 at 12.27.25 PM.png)
+![imageone](./Images/Screen%20Shot%202023-01-07%20at%2012.27.25%20PM.png)
 
-![imagetwo](/Images/Screen Shot 2023-01-07 at 12.27.36 PM.png)
+![imagetwo](./Images/Screen%20Shot%202023-01-07%20at%2012.27.36%20PM.png)
 
-![imagethree](Images/Screen Shot 2023-01-07 at 12.27.38 PM.png)
+![imagethree](./Images/Screen%20Shot%202023-01-07%20at%2012.27.38%20PM.png)
 
 
 ---
